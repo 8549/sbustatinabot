@@ -1,0 +1,21 @@
+{
+  "name": "sbustatinabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.1.0",
+    "@google-cloud/storage": "^5.1.1",
+    "telegraf": "^3.38.0",
+    "telegraf-command-parts": "^1.0.3"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^1.6.0"
+  }
+}
